@@ -176,38 +176,77 @@ My projects emphasize:
 
 
 ---
+# 🛠️ Technical Skills
 
-# 🛠 Technical Skills
+<p align="center">
 
-## Programming
+<img src="https://img.shields.io/badge/Python-DCCFF7?style=for-the-badge&logo=python&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/SQL-EDE7FF?style=for-the-badge&logo=database&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/C++-C9D8FF?style=for-the-badge&logo=cplusplus&logoColor=2D3142"/>
 
-Python • SQL • C++
-
-## Generative AI
-
-LLMs • RAG • Prompt Engineering • LangChain • Ollama • Gemini API
-
-## Machine Learning
-
-Scikit-learn • Classification • Regression • Feature Engineering
-
-## Deep Learning
-
-TensorFlow • Keras • PyTorch
-
-## NLP
-
-Transformers • BERT • Embeddings • Semantic Search • Text Summarization
-
-## Computer Vision
-
-OpenCV • YOLOv8 • EasyOCR • Object Detection
-
-## Development & Deployment
-
-FastAPI • Streamlit • Docker • Git • GitHub
+</p>
 
 
+### 🤖 Generative AI & LLM Engineering
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-DCCFF7?style=for-the-badge&logo=openai&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-EDE7FF?style=for-the-badge&logo=databricks&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-C9D8FF?style=for-the-badge&logo=probot&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/LangChain-DCCFF7?style=for-the-badge&logo=chainlink&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Ollama-EDE7FF?style=for-the-badge&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Gemini%20API-C9D8FF?style=for-the-badge&logo=google&logoColor=2D3142"/>
+
+</p>
+
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-DCCFF7?style=for-the-badge&logo=scikitlearn&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/TensorFlow-EDE7FF?style=for-the-badge&logo=tensorflow&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Keras-C9D8FF?style=for-the-badge&logo=keras&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/PyTorch-DCCFF7?style=for-the-badge&logo=pytorch&logoColor=2D3142"/>
+
+</p>
+
+
+### 📝 NLP & Language Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Transformers-DCCFF7?style=for-the-badge&logo=huggingface&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/BERT-EDE7FF?style=for-the-badge&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Embeddings-C9D8FF?style=for-the-badge&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Semantic%20Search-DCCFF7?style=for-the-badge&logoColor=2D3142"/>
+
+</p>
+
+
+### 👁️ Computer Vision
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenCV-DCCFF7?style=for-the-badge&logo=opencv&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/YOLOv8-EDE7FF?style=for-the-badge&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/EasyOCR-C9D8FF?style=for-the-badge&logoColor=2D3142"/>
+
+</p>
+
+
+### 🚀 Development & Deployment
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/FastAPI-DCCFF7?style=for-the-badge&logo=fastapi&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Streamlit-EDE7FF?style=for-the-badge&logo=streamlit&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Docker-C9D8FF?style=for-the-badge&logo=docker&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Git-DCCFF7?style=for-the-badge&logo=git&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/GitHub-EDE7FF?style=for-the-badge&logo=github&logoColor=2D3142"/>
+
+</p>
 ---
 
 # 📚 Certifications & Learning
