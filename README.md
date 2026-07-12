@@ -77,92 +77,185 @@ Currently exploring the future of AI engineering through hands-on projects, rese
 
 
 ---
+ 
+<table>
+<tr>
 
-# 🚀 Featured AI Systems
+<td width="50%" valign="top">
 
-## 📄 AI Contract & Legal Document Risk Analyzer
+<h3 align="center">📄 AI Contract & Legal Document Risk Analyzer</h3>
 
-**Generative AI | RAG | Gemini API | ChromaDB | OCR | FastAPI | Streamlit**
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-DCCFF7?style=flat-square&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/RAG-EDE7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_API-C9D8FF?style=flat-square"/>
+</p>
 
-An AI-powered document intelligence platform designed for contract analysis, risk identification, clause extraction, and context-aware document interaction.
+<p align="center">
+AI-powered document intelligence platform for contract analysis, clause extraction, risk identification, and context-aware document interaction.
+</p>
 
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/AI-Contract-Legal-Document-Risk-Analyzer
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/AI-Contract-Legal-Document-Risk-Analyzer">
+Repository →
+</a>
+</p>
 
-
----
-
-## 🧠 MindMate AI
-
-**LLMs | RAG | NLP | Sentiment Analysis | Streamlit**
-
-An AI-powered wellness assistant combining conversational AI, emotion understanding, and retrieval-based responses.
-
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/MindMate-AI
-
-
----
-
-## 🎯 AI-Powered Resume Screening & Candidate Ranking System
-
-**NLP | Embeddings | Machine Learning | LLM Applications**
-
-An AI recruitment intelligence platform for resume analysis, skill extraction, job matching, and candidate ranking.
-
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/AI-Powered-Resume-Screening-Candidate-Ranking-System
+</td>
 
 
----
+<td width="50%" valign="top">
 
-## 👁️ VisionAI Recognizer
+<h3 align="center">🧠 MindMate AI</h3>
 
-**YOLOv8 | OpenCV | EasyOCR | Computer Vision**
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-EDE7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-C9D8FF?style=flat-square"/>
+</p>
 
-A computer vision pipeline combining object detection and OCR capabilities for visual intelligence applications.
+<p align="center">
+AI wellness assistant using conversational AI, emotion understanding, sentiment analysis, and context-aware response generation.
+</p>
 
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/VisionAI-Recognizer
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/MindMate-AI">
+Repository →
+</a>
+</p>
+
+</td>
+
+</tr>
 
 
----
+<tr>
 
+<td width="50%" valign="top">
+
+<h3 align="center">🎯 AI Resume Screening & Candidate Ranking</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-EDE7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-C9D8FF?style=flat-square"/>
+</p>
+
+<p align="center">
+AI recruitment intelligence system for resume analysis, skill extraction, job matching, and candidate ranking.
+</p>
+
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/AI-Powered-Resume-Screening-Candidate-Ranking-System">
+Repository →
+</a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">👁️ VisionAI Recognizer</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/YOLOv8-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-EDE7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyOCR-C9D8FF?style=flat-square"/>
+</p>
+
+<p align="center">
+Computer vision intelligence system combining object detection and OCR for real-world visual understanding.
+</p>
+
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/VisionAI-Recognizer">
+Repository →
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 # 🔬 More Applied AI Work
+ <table>
+<tr>
 
-## 🔎 Context-Aware RAG Chatbot
+<td width="50%">
 
-**LangChain | Ollama | FAISS | Sentence Transformers | Embeddings**
+<h3 align="center">💬 Context-Aware RAG Chatbot</h3>
 
-A document intelligence chatbot using local LLMs and semantic retrieval for context-aware question answering.
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-EDE7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-C9D8FF?style=flat-square"/>
+</p>
 
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/RAG-_Context-_Chatbot
+<p align="center">
+Local LLM-powered document assistant using Retrieval-Augmented Generation for context-aware question answering.
+</p>
+
+<a href="https://github.com/toobafatima21ai-hue/RAG-_Context-_Chatbot">
+Repository →
+</a>
+
+</td>
 
 
----
+<td width="50%">
 
-## 📰 AI-Powered News Topic Classifier
+<h3 align="center">📰 AI News Topic Classifier</h3>
 
-**BERT | NLP | Transformers**
+<p align="center">
+<img src="https://img.shields.io/badge/BERT-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-EDE7FF?style=flat-square"/>
+</p>
 
-A transformer-based NLP system for intelligent news classification and topic understanding.
+<p align="center">
+BERT-based NLP system for intelligent news categorization and text understanding.
+</p>
 
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/AI-Powered-News-Intelligence-Platform
+</td>
+
+</tr>
 
 
----
+<tr>
 
-## 🏎️ Apex Velocity AI Racing Simulator
+<td width="50%">
 
-**Multi-Agent AI | Physics Engine | Streamlit**
+<h3 align="center">📝 AI Document Summarizer</h3>
 
-An AI-powered racing simulation system combining intelligent agents, physics modeling, and interactive visualization.
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/TF--IDF-EDE7FF?style=flat-square"/>
+</p>
 
-Repository:
-🔗 https://github.com/toobafatima21ai-hue/Apex-Velocity-AI-Racing-Simulator
+<p align="center">
+Extractive document summarization system using NLP preprocessing and text analysis.
+</p>
 
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🎯 AI Career Recommendation Engine</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-DCCFF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recommendation-EDE7FF?style=flat-square"/>
+</p>
+
+<p align="center">
+Machine learning based recommendation system for career guidance and personalized suggestions.
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
