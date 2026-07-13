@@ -37,7 +37,7 @@ Passionate about developing end-to-end AI applications that combine modern AI mo
 
 Currently exploring advanced AI engineering, LLM-powered applications, intelligent document systems, AI workflow optimization, and production-ready AI solutions.
 ---
-#Featured AI systems
+🚀 Featured AI Systems
 <table>
 <tr>
 
@@ -138,7 +138,7 @@ Repository →
 
 </tr>
 </table>
-# 🔬 More Applied AI Work
+🔬 More Applied AI Work
  <table>
 <tr>
 
@@ -290,9 +290,12 @@ Machine learning based recommendation system for career guidance and personalize
 
 </p>
 ---
-
 <p align="center">
 
-⭐ Building AI systems that bridge research and real-world applications.
+<img src="https://img.shields.io/badge/AI%20Engineering%20%7C%20Generative%20AI%20%7C%20LLMs%20%7C%20RAG-DCCFF7?style=for-the-badge"/>
 
+</p>
+
+<p align="center">
+⭐ Engineering intelligent AI solutions that bridge cutting-edge research and real-world impact.
 </p>
