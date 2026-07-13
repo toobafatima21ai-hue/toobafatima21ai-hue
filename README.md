@@ -156,9 +156,11 @@ Repository →
 Local LLM-powered document assistant using Retrieval-Augmented Generation for context-aware question answering.
 </p>
 
+<p align="center">
 <a href="https://github.com/toobafatima21ai-hue/RAG-_Context-_Chatbot">
-Repository →
+<img src="https://img.shields.io/badge/View_Repository-DCCFF7?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
+</p>
 
 </td>
 
@@ -174,6 +176,12 @@ Repository →
 
 <p align="center">
 BERT-based NLP system for intelligent news categorization and text understanding.
+</p>
+
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/AI-Powered-News-Topic-Classifier">
+<img src="https://img.shields.io/badge/View_Repository-EDE7FF?style=for-the-badge&logo=github&logoColor=2D3142"/>
+</a>
 </p>
 
 </td>
@@ -196,6 +204,12 @@ BERT-based NLP system for intelligent news categorization and text understanding
 Extractive document summarization system using NLP preprocessing and text analysis.
 </p>
 
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/AI_Document_Summarizer">
+<img src="https://img.shields.io/badge/View_Repository-C9D8FF?style=for-the-badge&logo=github&logoColor=2D3142"/>
+</a>
+</p>
+
 </td>
 
 
@@ -210,6 +224,12 @@ Extractive document summarization system using NLP preprocessing and text analys
 
 <p align="center">
 Machine learning based recommendation system for career guidance and personalized suggestions.
+</p>
+
+<p align="center">
+<a href="https://github.com/toobafatima21ai-hue/AI-Career-Recommendation-Engine">
+<img src="https://img.shields.io/badge/View_Repository-9D8DF1?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 </p>
 
 </td>
