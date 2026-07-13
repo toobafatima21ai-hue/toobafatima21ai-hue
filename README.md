@@ -14,7 +14,7 @@ Building intelligent AI systems by combining Machine Learning, Generative AI, an
 
 🌐 <a href="https://toobafatima-portfolio.vercel.app/">Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-💼 <a href="www.linkedin.com/in/tooba-fatima-b565a5298">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/tooba-fatima-b565a5298/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 📧 Email: toobafatima21ai@gmail.com
 
