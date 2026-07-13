@@ -140,7 +140,11 @@ Computer vision intelligence system combining object detection and OCR for real-
 </tr>
 </table>
 ---
-🔬 More Applied AI Work
+<h2 align="center"><b>🔬 More Applied AI Work</b></h2>
+
+<p align="center">
+Additional AI engineering projects exploring NLP, recommendation systems, document intelligence, and retrieval-based architectures.
+</p>
  <table>
 <tr>
 
