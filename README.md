@@ -37,7 +37,11 @@ Passionate about developing end-to-end AI applications that combine modern AI mo
 
 Currently exploring advanced AI engineering, LLM-powered applications, intelligent document systems, AI workflow optimization, and production-ready AI solutions.
 ---
-## 🚀 Featured AI Systems
+<h2 align="center"><b>🚀 Featured AI Systems</b></h2>
+
+<p align="center">
+Production-ready AI applications showcasing Generative AI, LLMs, RAG pipelines, NLP, Computer Vision, and end-to-end AI engineering.
+</p>
 
 <table>
 <tr>
