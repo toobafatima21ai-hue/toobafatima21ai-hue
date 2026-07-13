@@ -22,62 +22,22 @@ Building intelligent AI systems by combining Machine Learning, Generative AI, an
 
 
 ---
+ <p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-DCCFF7?style=for-the-badge&logoColor=2D3142"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-EDE7FF?style=for-the-badge&logoColor=2D3142"/>
+  <img src="https://img.shields.io/badge/LLMs-C9D8FF?style=for-the-badge&logoColor=2D3142"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-DCCFF7?style=for-the-badge&logoColor=2D3142"/>
+</p>
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-I am an Artificial Intelligence undergraduate focused on designing and developing practical AI solutions.
+Artificial Intelligence undergraduate focused on building intelligent AI systems using **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Computer Vision, and Machine Learning**.
 
-My work revolves around building end-to-end AI systems involving:
+Passionate about developing end-to-end AI applications that combine modern AI models, retrieval systems, data pipelines, and user-centric experiences to solve real-world problems.
 
-- Generative AI applications
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Computer Vision
-- Machine Learning workflows
-- AI application deployment
-
-I enjoy transforming AI concepts into functional products by combining models, data pipelines, APIs, and user-focused applications.
-
-Currently exploring the future of AI engineering through hands-on projects, research, and real-world implementations.
-
-
+Currently exploring advanced AI engineering, LLM-powered applications, intelligent document systems, AI workflow optimization, and production-ready AI solutions.
 ---
-
-# 🧠 AI Engineering Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Generative AI
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- RAG Pipelines
-- AI Assistants
-- LLM Application Development
-
-</td>
-
-<td width="50%">
-
-### 🔍 Intelligent Systems
-
-- NLP Applications
-- Semantic Search
-- Document Intelligence
-- Computer Vision
-- Machine Learning Solutions
-
-</td>
-
-</tr>
-</table>
-
-
----
- 
+#Featured AI systems
 <table>
 <tr>
 
@@ -258,17 +218,6 @@ Machine learning based recommendation system for career guidance and personalize
 </table>
 
 ---
-
-My projects emphasize:
-
-✓ Model integration  
-✓ Data pipelines  
-✓ AI architecture design  
-✓ Application development  
-✓ Deployment workflows  
-
-
----
 # 🛠️ Technical Skills
 
 <p align="center">
@@ -340,38 +289,6 @@ My projects emphasize:
 <img src="https://img.shields.io/badge/GitHub-EDE7FF?style=for-the-badge&logo=github&logoColor=2D3142"/>
 
 </p>
----
-
-# 📚 Certifications & Learning
-
-- Introduction to Generative AI — Google
-- Machine Learning Operations (MLOps) for Generative AI — Alison
-- Introduction to Research and Development in Tech — Alison
-
-
----
-
-# 🤝 Let's Connect
-
-I am always interested in connecting with:
-
-- AI Engineers
-- Machine Learning practitioners
-- Generative AI enthusiasts
-- Researchers
-- Developers building intelligent systems
-
-
-🌐 Portfolio:
-YOUR_PORTFOLIO_LINK
-
-💼 LinkedIn:
-YOUR_LINKEDIN_LINK
-
-💻 GitHub:
-https://github.com/toobafatima21ai-hue
-
-
 ---
 
 <p align="center">
