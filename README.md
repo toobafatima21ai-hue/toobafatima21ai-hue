@@ -37,7 +37,8 @@ Passionate about developing end-to-end AI applications that combine modern AI mo
 
 Currently exploring advanced AI engineering, LLM-powered applications, intelligent document systems, AI workflow optimization, and production-ready AI solutions.
 ---
-🚀 Featured AI Systems
+## 🚀 Featured AI Systems
+
 <table>
 <tr>
 
@@ -46,7 +47,7 @@ Currently exploring advanced AI engineering, LLM-powered applications, intellige
 <h3 align="center">📄 AI Contract & Legal Document Risk Analyzer</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Generative_AI-DCCFF7?style=flat-square&logoColor=2D3142"/>
+<img src="https://img.shields.io/badge/Generative_AI-DCCFF7?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-EDE7FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini_API-C9D8FF?style=flat-square"/>
 </p>
@@ -57,7 +58,7 @@ AI-powered document intelligence platform for contract analysis, clause extracti
 
 <p align="center">
 <a href="https://github.com/toobafatima21ai-hue/AI-Contract-Legal-Document-Risk-Analyzer">
-Repository →
+<img src="https://img.shields.io/badge/View_Repository-DCCFF7?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
 </p>
 
@@ -80,7 +81,7 @@ AI wellness assistant using conversational AI, emotion understanding, sentiment 
 
 <p align="center">
 <a href="https://github.com/toobafatima21ai-hue/MindMate-AI">
-Repository →
+<img src="https://img.shields.io/badge/View_Repository-DCCFF7?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
 </p>
 
@@ -107,7 +108,7 @@ AI recruitment intelligence system for resume analysis, skill extraction, job ma
 
 <p align="center">
 <a href="https://github.com/toobafatima21ai-hue/AI-Powered-Resume-Screening-Candidate-Ranking-System">
-Repository →
+<img src="https://img.shields.io/badge/View_Repository-DCCFF7?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
 </p>
 
@@ -130,7 +131,7 @@ Computer vision intelligence system combining object detection and OCR for real-
 
 <p align="center">
 <a href="https://github.com/toobafatima21ai-hue/VisionAI-Recognizer">
-Repository →
+<img src="https://img.shields.io/badge/View_Repository-DCCFF7?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
 </p>
 
@@ -138,6 +139,7 @@ Repository →
 
 </tr>
 </table>
+---
 🔬 More Applied AI Work
  <table>
 <tr>
@@ -179,7 +181,7 @@ BERT-based NLP system for intelligent news categorization and text understanding
 </p>
 
 <p align="center">
-<a href="https://github.com/toobafatima21ai-hue/AI-Powered-News-Topic-Classifier">
+<a href="https://github.com/toobafatima21ai-hue/AI-Powered-News-Intelligence-Platform">
 <img src="https://img.shields.io/badge/View_Repository-EDE7FF?style=for-the-badge&logo=github&logoColor=2D3142"/>
 </a>
 </p>
